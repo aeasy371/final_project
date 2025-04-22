@@ -26,7 +26,9 @@ Due to space constraints within Github, the data/ directory has not been uploade
 Once the environment is working properly, there will be 3 scripts that need to be run. These will take a few minutes to an hour, I highly recommend running them at night or when you have free compute available. The following scripts will each run 10 epochs of training on their respective datasets. The CIFAR-10 and CIFAR-100 scripts will run much faster, given that they are smaller models. The MNIST script will take quite a while. The full training of these models took several hours to converge, but if you compare the training and validation losses/accuracies with the graphs and training_outputs folder, you should see that they line up very well.
 
 python3 MPC_Crypten_cifar10_autograd.py
+
 python3 MPC_Crypten_cifar100_autograd.py
+
 python3 MPC_Crypten_MNIST_autograd.py
 
 If you would like to graph the outputs, there is a supplied graphing.ipynb file. Simply copy and paste the output of each script into a file and change the read path in the second block, then run all parts of the script. 
