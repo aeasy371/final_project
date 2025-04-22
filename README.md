@@ -20,7 +20,7 @@ if installing locally, it is highly important that you set this to false once co
 
 ##### Creating the feature extracted datasets
 Due to space constraints within Github, the data/ directory has not been uploaded to the repository. Luckily, these datasets are very common and available in torchvision, to create the necessary files, simply run 
-python3 create_features.py
+**python3 create_features.py**
 If everything is installed properly it should take only a minute or two and output both cifar10_swin_features.pt and cifar100_swin_features.pt.
 
 ##### Running the scripts
