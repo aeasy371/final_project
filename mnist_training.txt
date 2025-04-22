@@ -1,0 +1,261 @@
+Epoch 0 completed: Loss 0.8069 Accuracy 0.81                                                                                                                             
+Test loss: 3.7256                                                                                                                                                        
+Test Accuracy: 90.08%                                                                                                                                                    
+Epoch 1 completed: Loss 0.3407 Accuracy 0.91                                                                                                                             
+Test loss: 2.9382                                                                                                                                                        
+Test Accuracy: 92.30%                                                                                                                                                    
+Epoch 2 completed: Loss 0.2844 Accuracy 0.93                                                                                                                             
+Test loss: 2.5961                                                                                                                                                        
+Test Accuracy: 93.33%                                                                                                                                                    
+Epoch 3 completed: Loss 0.2470 Accuracy 0.94                                                                                                                             
+Test loss: 2.2486                                                                                                                                                        
+Test Accuracy: 94.44%                                                                                                                                                    
+Epoch 4 completed: Loss 0.2182 Accuracy 0.95                                                                                                                             
+Test loss: 2.0732                                                                                                                                                        
+Test Accuracy: 95.05%                                                                                                                                                    
+Epoch 5 completed: Loss 0.1964 Accuracy 0.95                                                                                                                             
+Test loss: 1.8692                                                                                                                                                        
+Test Accuracy: 95.62%                                                                                                                                                    
+Epoch 6 completed: Loss 0.1792 Accuracy 0.96                                                                                                                             
+Test loss: 1.7320                                                                                                                                                        
+Test Accuracy: 95.98%                                                                                                                                                    
+Epoch 7 completed: Loss 0.1649 Accuracy 0.96                                                                                                                             
+Test loss: 1.6216                                                                                                                                                        
+Test Accuracy: 96.28%                                                                                                                                                    
+Epoch 8 completed: Loss 0.1532 Accuracy 0.97                                                                                                                             
+Test loss: 1.5338                                                                                                                                                        
+Test Accuracy: 96.54%                                                                                                                                                    
+Epoch 9 completed: Loss 0.1432 Accuracy 0.97                                                                                                                             
+Test loss: 1.4669                                                                                                                                                        
+Test Accuracy: 96.67%                                                                                                                                                    
+Epoch 10 completed: Loss 0.1342 Accuracy 0.97                                                                                                                            
+Test loss: 1.4110                                                                                                                                                        
+Test Accuracy: 96.73%                                                                                                                                                    
+Epoch 11 completed: Loss 0.1269 Accuracy 0.97                                                                                                                            
+Test loss: 1.3696                                                                                                                                                        
+Test Accuracy: 96.86%
+Epoch 12 completed: Loss 0.1197 Accuracy 0.98
+Test loss: 1.3056                                                                   
+Test Accuracy: 97.15%                                                               
+Epoch 13 completed: Loss 0.1140 Accuracy 0.98                                       
+Test loss: 1.2575                                                                   
+Test Accuracy: 97.34%                                                               
+Epoch 14 completed: Loss 0.1085 Accuracy 0.98                                       
+Test loss: 1.2566                                                                   
+Test Accuracy: 97.39%                                                               
+Epoch 15 completed: Loss 0.1038 Accuracy 0.98                                       
+Test loss: 1.2128                                                                   
+Test Accuracy: 97.31%                                                               
+Epoch 16 completed: Loss 0.0993 Accuracy 0.98                                       
+Test loss: 1.1968                                                                   
+Test Accuracy: 97.48%                                                               
+Epoch 17 completed: Loss 0.0953 Accuracy 0.98                                       
+Test loss: 1.1840                                                                   
+Test Accuracy: 97.70%                                                               
+Epoch 18 completed: Loss 0.0916 Accuracy 0.99                                       
+Test loss: 1.1623                                                                   
+Test Accuracy: 97.55%                                                               
+Epoch 19 completed: Loss 0.0882 Accuracy 0.99                                       
+Test loss: 1.1355                                                                   
+Test Accuracy: 97.56%                                                               
+Epoch 20 completed: Loss 0.0851 Accuracy 0.99                                       
+Test loss: 1.0997                                                                   
+Test Accuracy: 97.69%                                                               
+Epoch 21 completed: Loss 0.0821 Accuracy 0.99                                       
+Test loss: 1.0792                                                                   
+Test Accuracy: 97.84%                                                               
+Epoch 22 completed: Loss 0.0795 Accuracy 0.99                                       
+Test loss: 1.0855                                                                   
+Test Accuracy: 97.70%                                                               
+Epoch 23 completed: Loss 0.0771 Accuracy 0.99                                       
+Test loss: 1.0868                                                                   
+Test Accuracy: 97.71%                                                               
+Epoch 24 completed: Loss 0.0747 Accuracy 0.99                                       
+Test loss: 1.0629                                                                   
+Test Accuracy: 97.80%
+Epoch 25 completed: Loss 0.0725 Accuracy 0.99
+Test loss: 1.0406                                                                   
+Test Accuracy: 97.75%                                                               
+Epoch 26 completed: Loss 0.0706 Accuracy 0.99                                       
+Test loss: 1.0433                                                                   
+Test Accuracy: 97.86%                                                               
+Epoch 27 completed: Loss 0.0687 Accuracy 0.99                                       
+Test loss: 1.0404                                                                   
+Test Accuracy: 97.78%                                                               
+Epoch 28 completed: Loss 0.0670 Accuracy 0.99                                       
+Test loss: 1.0305                                                                   
+Test Accuracy: 97.83%                                                               
+Epoch 29 completed: Loss 0.0653 Accuracy 0.99                                       
+Test loss: 1.0252                                                                   
+Test Accuracy: 97.89%                                                               
+Epoch 30 completed: Loss 0.0639 Accuracy 0.99                                       
+Test loss: 1.0395                                                                   
+Test Accuracy: 97.77%                                                               
+Epoch 31 completed: Loss 0.0623 Accuracy 0.99                                       
+Test loss: 1.0085                                                                   
+Test Accuracy: 97.93%                                                               
+Epoch 32 completed: Loss 0.0610 Accuracy 1.00                                       
+Test loss: 1.0216                                                                   
+Test Accuracy: 97.93%                                                               
+Epoch 33 completed: Loss 0.0597 Accuracy 1.00                                       
+Test loss: 1.0258                                                                   
+Test Accuracy: 97.95%                                                               
+Epoch 34 completed: Loss 0.0586 Accuracy 1.00                                       
+Test loss: 1.0201                                                                   
+Test Accuracy: 98.00%                                                               
+Epoch 35 completed: Loss 0.0575 Accuracy 1.00                                       
+Test loss: 1.0322                                                                   
+Test Accuracy: 97.88%                                                               
+Epoch 36 completed: Loss 0.0565 Accuracy 1.00                                       
+Test loss: 1.0385                                                                   
+Test Accuracy: 97.87%                                                               
+Epoch 37 completed: Loss 0.0554 Accuracy 1.00                                       
+Test loss: 1.0181                                                                   
+Test Accuracy: 97.94%
+Epoch 38 completed: Loss 0.0546 Accuracy 1.00
+Test loss: 1.0303                                                                   
+Test Accuracy: 97.98%                                                               
+Epoch 39 completed: Loss 0.0538 Accuracy 1.00                                       
+Test loss: 1.0160                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 40 completed: Loss 0.0530 Accuracy 1.00                                       
+Test loss: 1.0285                                                                   
+Test Accuracy: 97.98%                                                               
+Epoch 41 completed: Loss 0.0523 Accuracy 1.00                                       
+Test loss: 1.0085                                                                   
+Test Accuracy: 98.01%                                                               
+Epoch 42 completed: Loss 0.0516 Accuracy 1.00                                       
+Test loss: 1.0129                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 43 completed: Loss 0.0509 Accuracy 1.00                                       
+Test loss: 1.0262                                                                   
+Test Accuracy: 98.03%                                                               
+Epoch 44 completed: Loss 0.0503 Accuracy 1.00                                       
+Test loss: 1.0125                                                                   
+Test Accuracy: 98.01%                                                               
+Epoch 45 completed: Loss 0.0497 Accuracy 1.00                                       
+Test loss: 1.0338                                                                   
+Test Accuracy: 98.01%                                                               
+Epoch 46 completed: Loss 0.0492 Accuracy 1.00                                       
+Test loss: 1.0277                                                                   
+Test Accuracy: 98.00%                                                               
+Epoch 47 completed: Loss 0.0488 Accuracy 1.00                                       
+Test loss: 1.0205                                                                   
+Test Accuracy: 97.98%                                                               
+Epoch 48 completed: Loss 0.0483 Accuracy 1.00                                       
+Test loss: 1.0245                                                                   
+Test Accuracy: 97.99%                                                               
+Epoch 49 completed: Loss 0.0478 Accuracy 1.00                                       
+Test loss: 1.0361                                                                   
+Test Accuracy: 98.00%                                                               
+Epoch 50 completed: Loss 0.0474 Accuracy 1.00                                       
+Test loss: 1.0239                                                                   
+Test Accuracy: 97.95%
+Epoch 51 completed: Loss 0.0470 Accuracy 1.00 
+Test loss: 1.0262                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 52 completed: Loss 0.0466 Accuracy 1.00                                       
+Test loss: 1.0281                                                                   
+Test Accuracy: 98.04%                                                               
+Epoch 53 completed: Loss 0.0462 Accuracy 1.00                                       
+Test loss: 1.0284                                                                   
+Test Accuracy: 97.98%                                                               
+Epoch 54 completed: Loss 0.0459 Accuracy 1.00                                       
+Test loss: 1.0374                                                                   
+Test Accuracy: 98.05%                                                               
+Epoch 55 completed: Loss 0.0457 Accuracy 1.00                                       
+Test loss: 1.0328                                                                   
+Test Accuracy: 98.02%                                                               
+Epoch 56 completed: Loss 0.0454 Accuracy 1.00                                       
+Test loss: 1.0422                                                                   
+Test Accuracy: 98.12%                                                               
+Epoch 57 completed: Loss 0.0450 Accuracy 1.00                                       
+Test loss: 1.0416                                                                   
+Test Accuracy: 98.05%                                                               
+Epoch 58 completed: Loss 0.0448 Accuracy 1.00                                       
+Test loss: 1.0464                                                                   
+Test Accuracy: 97.98%                                                               
+Epoch 59 completed: Loss 0.0446 Accuracy 1.00                                       
+Test loss: 1.0482                                                                   
+Test Accuracy: 98.03%                                                               
+Epoch 60 completed: Loss 0.0444 Accuracy 1.00                                       
+Test loss: 1.0438                                                                   
+Test Accuracy: 98.09%                                                               
+Epoch 61 completed: Loss 0.0442 Accuracy 1.00                                       
+Test loss: 1.0519                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 62 completed: Loss 0.0439 Accuracy 1.00                                       
+Test loss: 1.0538                                                                   
+Test Accuracy: 98.03%                                                               
+Epoch 63 completed: Loss 0.0437 Accuracy 1.00                                       
+Test loss: 1.0588                                                                   
+Test Accuracy: 98.05%
+Epoch 64 completed: Loss 0.0436 Accuracy 1.00
+Test loss: 1.0504                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 65 completed: Loss 0.0434 Accuracy 1.00                                       
+Test loss: 1.0612                                                                   
+Test Accuracy: 98.10%                                                               
+Epoch 66 completed: Loss 0.0433 Accuracy 1.00                                       
+Test loss: 1.0609                                                                   
+Test Accuracy: 98.00%                                                               
+Epoch 67 completed: Loss 0.0431 Accuracy 1.00                                       
+Test loss: 1.0619                                                                   
+Test Accuracy: 98.11%                                                               
+Epoch 68 completed: Loss 0.0429 Accuracy 1.00                                       
+Test loss: 1.0653                                                                   
+Test Accuracy: 98.03%                                                               
+Epoch 69 completed: Loss 0.0428 Accuracy 1.00                                       
+Test loss: 1.0646                                                                   
+Test Accuracy: 98.08%                                                               
+Epoch 70 completed: Loss 0.0427 Accuracy 1.00                                       
+Test loss: 1.0749                                                                   
+Test Accuracy: 98.00%                                                               
+Epoch 71 completed: Loss 0.0426 Accuracy 1.00                                       
+Test loss: 1.0710                                                                   
+Test Accuracy: 98.09%                                                               
+Epoch 72 completed: Loss 0.0425 Accuracy 1.00                                       
+Test loss: 1.0710                                                                   
+Test Accuracy: 98.11%                                                               
+Epoch 73 completed: Loss 0.0424 Accuracy 1.00                                       
+Test loss: 1.0753                                                                   
+Test Accuracy: 98.07%                                                               
+Epoch 74 completed: Loss 0.0422 Accuracy 1.00                                       
+Test loss: 1.0785                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 75 completed: Loss 0.0421 Accuracy 1.00                                       
+Test loss: 1.0789                                                                   
+Test Accuracy: 98.01%                                                               
+Epoch 76 completed: Loss 0.0420 Accuracy 1.00                                       
+Test loss: 1.0806                                                                   
+Test Accuracy: 98.10%
+Epoch 77 completed: Loss 0.0420 Accuracy 1.00
+Test loss: 1.0801                                                                   
+Test Accuracy: 98.14%                                                               
+Epoch 78 completed: Loss 0.0419 Accuracy 1.00                                       
+Test loss: 1.0819                                                                   
+Test Accuracy: 98.07%                                                               
+Epoch 79 completed: Loss 0.0418 Accuracy 1.00                                       
+Test loss: 1.0839                                                                   
+Test Accuracy: 98.09%                                                               
+Epoch 80 completed: Loss 0.0417 Accuracy 1.00                                       
+Test loss: 1.0884                                                                   
+Test Accuracy: 98.08%                                                               
+Epoch 81 completed: Loss 0.0416 Accuracy 1.00                                       
+Test loss: 1.0893                                                                   
+Test Accuracy: 98.01%                                                               
+Epoch 82 completed: Loss 0.0416 Accuracy 1.00                                       
+Test loss: 1.0909                                                                   
+Test Accuracy: 98.06%                                                               
+Epoch 83 completed: Loss 0.0415 Accuracy 1.00                                       
+Test loss: 1.0879                                                                   
+Test Accuracy: 98.09%                                                               
+Epoch 84 completed: Loss 0.0414 Accuracy 1.00                                       
+Test loss: 1.0939                                                                   
+Test Accuracy: 98.10%                                                               
+Epoch 85 completed: Loss 0.0414 Accuracy 1.00                                       
+Test loss: 1.0944                                                                   
+Test Accuracy: 98.04%                                                               
+Epoch 86 completed: Loss 0.0413 Accuracy 1.00                                       
+Test loss: 1.1000                                                                   
+Test Accuracy: 98.06%                                                               

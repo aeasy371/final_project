@@ -1,0 +1,2 @@
+Epoch 2 completed: 
+Loss 2.1741 Accuracy 0.63
