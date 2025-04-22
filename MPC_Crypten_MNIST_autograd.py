@@ -119,7 +119,7 @@ def train_encrypted_model(train_loader, encrypted_model, num_epochs, learning_ra
 			if evaluation:
 				evaluation(val_dataloader, encrypted_model)
 
-		crypten.save(encrypted_model, f'encrypted_models/CIFAR10_{learning_rate}_{epoch+1}.pth')
+		crypten.save(encrypted_model, f'encrypted_models/MNIST_{learning_rate}_{epoch+1}.pth')
 		encrypted_model.encrypt()
 
 
