@@ -34,3 +34,5 @@ python3 MPC_Crypten_cifar100_autograd.py
 python3 MPC_Crypten_MNIST_autograd.py
 
 If you would like to graph the outputs, there is a supplied graphing.ipynb file. Simply copy and paste the output of each script into a file and change the read path in the second block, then run all parts of the script. 
+
+for information installing and running CrypTen, check its github page, https://github.com/facebookresearch/CrypTen.
